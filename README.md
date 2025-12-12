@@ -12,6 +12,10 @@ hi B)
     <img width="55%" alt="Language Statistics"
       src="langs-mono-light.svg">
   </picture>
+
+
+  
+  ungatekeeping my language stats; check out <a href=https://github.com/akuwuh/re-po> re-po </a>
 </div>
 <!--END_SECTION:languages-->
 
